@@ -9,6 +9,7 @@ This repository contains my quantitative research projects, organized by asset c
 - Equity-Industry_Resonance_and_Momentum_Model.ipynb
 - From High-Frequency Price Patterns to Momentum-Chasing Factors.ipynb
 - Alpha_Information_in_Volume_Spikes.ipynb
+- Tidal_Patterns_in_Stock_Volume_and_Tide_Factor_Construction.ipynb
 
 ## Industry Rotation
 - Sector_Rotation_Strategy_Driven_by_Effective_Price-Volume_Factors.ipynb
